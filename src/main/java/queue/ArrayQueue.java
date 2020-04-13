@@ -11,6 +11,7 @@ import array.Array;
 public class ArrayQueue<E> implements Queue<E> {
     private Array<E> array;
     public ArrayQueue(int capacity){
+
         array=new Array<>(capacity);
     }
     public ArrayQueue(){
