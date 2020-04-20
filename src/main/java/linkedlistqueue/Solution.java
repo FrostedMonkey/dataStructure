@@ -65,7 +65,8 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        int[] nums={1,3,3,6};
+        int[] nums={1,3,3,88,9};
+        System.out.println("测试冲突")
         ListNode head=new ListNode(nums);
         System.out.println(head);
         ListNode res=(new Solution()).removeElements(head,3,0);
