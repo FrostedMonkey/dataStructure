@@ -1,6 +1,9 @@
-1、array（动态数组）
-2、stack（栈）
-3、queue（队列）
+//1、array（动态数组）
+//2、stack（栈）
+//3、queue（队列）
+1、测试
+2、测试
+3、测试
 4、（linkedlist） 链表实现栈（linkedliststack） 链表实现队列（linkdelistqueue） 循环链表loopqueue
 5、二分搜索树（bst）
 6、 set（1、基于二分搜索树实现 2、基于链表实现）
